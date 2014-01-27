@@ -1,5 +1,5 @@
 // what kind of exchange does Gekko support?
-// 
+// coffee
 // Required parameters per exchange.
 // 
 // name: Proper name of the exchange
